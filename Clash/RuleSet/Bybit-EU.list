@@ -1,3 +1,17 @@
+# Bybit EU 账户、API 与 WebSocket
+DOMAIN-SUFFIX,bybit.eu
+
+# 设备指纹
+DOMAIN-SUFFIX,byabcd.com
+
+# 设备数据采集
+DOMAIN-SUFFIX,wsot2022.com
+
+# 备用 API / 故障切换域
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byd3c3.com
+
 DOMAIN,api3.bybit.eu
 DOMAIN,ws2.bybit.eu
 DOMAIN,content.byabcd.com
