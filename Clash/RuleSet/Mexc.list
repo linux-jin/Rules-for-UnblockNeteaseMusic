@@ -1,4 +1,7 @@
+# MEXC 主站、API、WebSocket、合约、OTC 等
 DOMAIN-SUFFIX,mexc.com
+
+# 官方镜像及地区站
 DOMAIN-SUFFIX,mexc.co
 DOMAIN-SUFFIX,mexc.io
 DOMAIN-SUFFIX,mexc.fm
@@ -17,8 +20,14 @@ DOMAIN-SUFFIX,mexc.us
 DOMAIN-SUFFIX,mexc-au.com
 DOMAIN-SUFFIX,mexccex.com
 DOMAIN-SUFFIX,mexcsite.com
+
+# 网站静态资源及数据统计
 DOMAIN-SUFFIX,mocortech.com
 DOMAIN-SUFFIX,mexcsensors.com
+
+# MEXC 独立 S3 静态资源
 DOMAIN,mexc-front-static.s3.ap-northeast-1.amazonaws.com
 DOMAIN,mexc-static-learn.s3.ap-northeast-1.amazonaws.com
+
+# App 下载及深链
 DOMAIN,mexc.onelink.me
